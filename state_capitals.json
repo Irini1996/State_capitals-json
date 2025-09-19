@@ -1,0 +1,652 @@
+[
+  {
+    "state": "Alabama",
+    "capital": "Montgomery",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Montgomery",
+      "state": "Alabama",
+      "zip": "36104"
+    },
+    "latitude": 32.361538,
+    "longitude": -86.279118
+  },
+  {
+    "state": "Alaska",
+    "capital": "Juneau",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Juneau",
+      "state": "Alaska",
+      "zip": "99801"
+    },
+    "latitude": 58.301935,
+    "longitude": -134.41974
+  },
+  {
+    "state": "Arizona",
+    "capital": "Phoenix",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Phoenix",
+      "state": "Arizona",
+      "zip": "85001"
+    },
+    "latitude": 33.448457,
+    "longitude": -112.073844
+  },
+  {
+    "state": "Arkansas",
+    "capital": "Little Rock",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Little Rock",
+      "state": "Arkansas",
+      "zip": "72201"
+    },
+    "latitude": 34.736009,
+    "longitude": -92.331122
+  },
+  {
+    "state": "California",
+    "capital": "Sacramento",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Sacramento",
+      "state": "California",
+      "zip": "95814"
+    },
+    "latitude": 38.555605,
+    "longitude": -121.468926
+  },
+  {
+    "state": "Colorado",
+    "capital": "Denver",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Denver",
+      "state": "Colorado",
+      "zip": "80202"
+    },
+    "latitude": 39.7391667,
+    "longitude": -104.984167
+  },
+  {
+    "state": "Connecticut",
+    "capital": "Hartford",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Hartford",
+      "state": "Connecticut",
+      "zip": "06103"
+    },
+    "latitude": 41.767,
+    "longitude": -72.677
+  },
+  {
+    "state": "Delaware",
+    "capital": "Dover",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Dover",
+      "state": "Delaware",
+      "zip": "19901"
+    },
+    "latitude": 39.161921,
+    "longitude": -75.526755
+  },
+  {
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Tallahassee",
+      "state": "Florida",
+      "zip": "32301"
+    },
+    "latitude": 30.4518,
+    "longitude": -84.27277
+  },
+  {
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Atlanta",
+      "state": "Georgia",
+      "zip": "30303"
+    },
+    "latitude": 33.76,
+    "longitude": -84.39
+  },
+  {
+    "state": "Hawaii",
+    "capital": "Honolulu",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Honolulu",
+      "state": "Hawaii",
+      "zip": "96813"
+    },
+    "latitude": 21.30895,
+    "longitude": -157.826182
+  },
+  {
+    "state": "Idaho",
+    "capital": "Boise",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Boise",
+      "state": "Idaho",
+      "zip": "83702"
+    },
+    "latitude": 43.613739,
+    "longitude": -116.237651
+  },
+  {
+    "state": "Illinois",
+    "capital": "Springfield",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Springfield",
+      "state": "Illinois",
+      "zip": "62701"
+    },
+    "latitude": 39.78325,
+    "longitude": -89.650373
+  },
+  {
+    "state": "Indiana",
+    "capital": "Indianapolis",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Indianapolis",
+      "state": "Indiana",
+      "zip": "46225"
+    },
+    "latitude": 39.790942,
+    "longitude": -86.147685
+  },
+  {
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Des Moines",
+      "state": "Iowa",
+      "zip": "50309"
+    },
+    "latitude": 41.590939,
+    "longitude": -93.620866
+  },
+  {
+    "state": "Kansas",
+    "capital": "Topeka",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Topeka",
+      "state": "Kansas",
+      "zip": "66603"
+    },
+    "latitude": 39.04,
+    "longitude": -95.69
+  },
+  {
+    "state": "Kentucky",
+    "capital": "Frankfort",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Frankfort",
+      "state": "Kentucky",
+      "zip": "40601"
+    },
+    "latitude": 38.197274,
+    "longitude": -84.86311
+  },
+  {
+    "state": "Louisiana",
+    "capital": "Baton Rouge",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Baton Rouge",
+      "state": "Louisiana",
+      "zip": "70802"
+    },
+    "latitude": 30.45809,
+    "longitude": -91.140229
+  },
+  {
+    "state": "Maine",
+    "capital": "Augusta",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Augusta",
+      "state": "Maine",
+      "zip": "04330"
+    },
+    "latitude": 44.323535,
+    "longitude": -69.765261
+  },
+  {
+    "state": "Maryland",
+    "capital": "Annapolis",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Annapolis",
+      "state": "Maryland",
+      "zip": "21401"
+    },
+    "latitude": 38.972945,
+    "longitude": -76.501157
+  },
+  {
+    "state": "Massachusetts",
+    "capital": "Boston",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Boston",
+      "state": "Massachusetts",
+      "zip": "02201"
+    },
+    "latitude": 42.2352,
+    "longitude": -71.0275
+  },
+  {
+    "state": "Michigan",
+    "capital": "Lansing",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Lansing",
+      "state": "Michigan",
+      "zip": "48933"
+    },
+    "latitude": 42.7335,
+    "longitude": -84.5467
+  },
+  {
+    "state": "Minnesota",
+    "capital": "Saint Paul",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Saint Paul",
+      "state": "Minnesota",
+      "zip": "55102"
+    },
+    "latitude": 44.95,
+    "longitude": -93.094
+  },
+  {
+    "state": "Mississippi",
+    "capital": "Jackson",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Jackson",
+      "state": "Mississippi",
+      "zip": "39205"
+    },
+    "latitude": 32.32,
+    "longitude": -90.207
+  },
+  {
+    "state": "Missouri",
+    "capital": "Jefferson City",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Jefferson City",
+      "state": "Missouri",
+      "zip": "65101"
+    },
+    "latitude": 38.572954,
+    "longitude": -92.189283
+  },
+  {
+    "state": "Montana",
+    "capital": "Helena",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Helena",
+      "state": "Montana",
+      "zip": "59623"
+    },
+    "latitude": 46.595805,
+    "longitude": -112.027031
+  },
+  {
+    "state": "Nebraska",
+    "capital": "Lincoln",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Lincoln",
+      "state": "Nebraska",
+      "zip": "68502"
+    },
+    "latitude": 40.809868,
+    "longitude": -96.675345
+  },
+  {
+    "state": "Nevada",
+    "capital": "Carson City",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Carson City",
+      "state": "Nevada",
+      "zip": "89701"
+    },
+    "latitude": 39.160949,
+    "longitude": -119.753877
+  },
+  {
+    "state": "New Hampshire",
+    "capital": "Concord",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Concord",
+      "state": "New Hampshire",
+      "zip": "03301"
+    },
+    "latitude": 43.220093,
+    "longitude": -71.549127
+  },
+  {
+    "state": "New Jersey",
+    "capital": "Trenton",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Trenton",
+      "state": "New Jersey",
+      "zip": "08608"
+    },
+    "latitude": 40.221741,
+    "longitude": -74.756138
+  },
+  {
+    "state": "New Mexico",
+    "capital": "Santa Fe",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Santa Fe",
+      "state": "New Mexico",
+      "zip": "87501"
+    },
+    "latitude": 35.667231,
+    "longitude": -105.964575
+  },
+  {
+    "state": "New York",
+    "capital": "Albany",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Albany",
+      "state": "New York",
+      "zip": "12207"
+    },
+    "latitude": 42.659829,
+    "longitude": -73.781339
+  },
+  {
+    "state": "North Carolina",
+    "capital": "Raleigh",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Raleigh",
+      "state": "North Carolina",
+      "zip": "27601"
+    },
+    "latitude": 35.771,
+    "longitude": -78.638
+  },
+  {
+    "state": "North Dakota",
+    "capital": "Bismarck",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Bismarck",
+      "state": "North Dakota",
+      "zip": "58501"
+    },
+    "latitude": 48.813343,
+    "longitude": -100.779004
+  },
+  {
+    "state": "Ohio",
+    "capital": "Columbus",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Columbus",
+      "state": "Ohio",
+      "zip": "43215"
+    },
+    "latitude": 39.962245,
+    "longitude": -83.000647
+  },
+  {
+    "state": "Oklahoma",
+    "capital": "Oklahoma City",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Oklahoma City",
+      "state": "Oklahoma",
+      "zip": "73102"
+    },
+    "latitude": 35.482309,
+    "longitude": -97.534994
+  },
+  {
+    "state": "Oregon",
+    "capital": "Salem",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Salem",
+      "state": "Oregon",
+      "zip": "97301"
+    },
+    "latitude": 44.931109,
+    "longitude": -123.029159
+  },
+  {
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Harrisburg",
+      "state": "Pennsylvania",
+      "zip": "17101"
+    },
+    "latitude": 40.269789,
+    "longitude": -76.875613
+  },
+  {
+    "state": "Rhode Island",
+    "capital": "Providence",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Providence",
+      "state": "Rhode Island",
+      "zip": "02903"
+    },
+    "latitude": 41.82355,
+    "longitude": -71.422132
+  },
+  {
+    "state": "South Carolina",
+    "capital": "Columbia",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Columbia",
+      "state": "South Carolina",
+      "zip": "29217"
+    },
+    "latitude": 34.0,
+    "longitude": -81.035
+  },
+  {
+    "state": "South Dakota",
+    "capital": "Pierre",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Pierre",
+      "state": "South Dakota",
+      "zip": "57501"
+    },
+    "latitude": 44.367966,
+    "longitude": -100.336378
+  },
+  {
+    "state": "Tennessee",
+    "capital": "Nashville",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Nashville",
+      "state": "Tennessee",
+      "zip": "37219"
+    },
+    "latitude": 36.165,
+    "longitude": -86.784
+  },
+  {
+    "state": "Texas",
+    "capital": "Austin",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Austin",
+      "state": "Texas",
+      "zip": "78701"
+    },
+    "latitude": 30.266667,
+    "longitude": -97.75
+  },
+  {
+    "state": "Utah",
+    "capital": "Salt Lake City",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Salt Lake City",
+      "state": "Utah",
+      "zip": "84111"
+    },
+    "latitude": 40.7547,
+    "longitude": -111.892622
+  },
+  {
+    "state": "Vermont",
+    "capital": "Montpelier",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Montpelier",
+      "state": "Vermont",
+      "zip": "05602"
+    },
+    "latitude": 44.26639,
+    "longitude": -72.57194
+  },
+  {
+    "state": "Virginia",
+    "capital": "Richmond",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Richmond",
+      "state": "Virginia",
+      "zip": "23219"
+    },
+    "latitude": 37.54,
+    "longitude": -77.46
+  },
+  {
+    "state": "Washington",
+    "capital": "Olympia",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Olympia",
+      "state": "Washington",
+      "zip": "98507"
+    },
+    "latitude": 47.042418,
+    "longitude": -122.893077
+  },
+  {
+    "state": "West Virginia",
+    "capital": "Charleston",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Charleston",
+      "state": "West Virginia",
+      "zip": "25301"
+    },
+    "latitude": 38.349497,
+    "longitude": -81.633294
+  },
+  {
+    "state": "Wisconsin",
+    "capital": "Madison",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Madison",
+      "state": "Wisconsin",
+      "zip": "53703"
+    },
+    "latitude": 43.074722,
+    "longitude": -89.384444
+  },
+  {
+    "state": "Wyoming",
+    "capital": "Cheyenne",
+    "address": {
+      "address_line_1": null,
+      "address_line_2": null,
+      "capital": "Cheyenne",
+      "state": "Wyoming",
+      "zip": "82001"
+    },
+    "latitude": 41.145548,
+    "longitude": -104.802042
+  }
+]
